@@ -1,0 +1,11 @@
+.circle {
+  --size: 100px;
+  width: var(--size);
+  height: var(--size);
+  background-color: powderblue;
+  border-radius: 50%;
+}
+  
+  .red {
+    background-color: tomato;
+  }
